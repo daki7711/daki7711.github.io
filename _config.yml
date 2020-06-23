@@ -83,10 +83,10 @@ author:
   name             : "David Young-Jae Kim"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "1111 Engineering Dr, Boulder, CO 80309"
+  location         : "Boulder, Colorado"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "DavidYJK@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
