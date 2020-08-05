@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Sogang University, Computer Science Department"
 date: 2014~2016
-location: "City, Country"
+location: "Seoul, Korea"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
