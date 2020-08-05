@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Sogang University, Computer Science Department"
-date: 2014~2016
+date: 2014-03-01
 location: "Seoul, Korea"
 ---
 
