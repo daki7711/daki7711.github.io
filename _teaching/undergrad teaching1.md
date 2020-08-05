@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Teaching Assistant"
+title: "Undergraduate Teaching Assistant(Introduction Engineering Design)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Sogang University, Computer Science Department"
