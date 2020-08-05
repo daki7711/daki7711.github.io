@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Data Structure & Introduction Engineering Design"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+<!---permalink: /teaching/2014-spring-teaching-1--->
+venue: "Sogang University, Computer Science Department"
+date: 2014~2016
 location: "City, Country"
 ---
 
