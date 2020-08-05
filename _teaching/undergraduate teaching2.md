@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Teaching Assistant"
+title: "Undergraduate Teaching Assistant(Data Structure)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Sogang University, Computer Science Department"
