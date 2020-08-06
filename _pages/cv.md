@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in South Korea, Sogang University, 2016
-* M.S. in Boulder,University of Colorado at Boulder, 2021(exptected)
+* B.S. in Seoul, Sogang University, 2016
+* M.S. in Boulder, University of Colorado at Boulder, 2021(exptected)
 
 Work experience
 ======
@@ -49,3 +49,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Fellowship/Scholarship
+======
+* Academic Scholarship
+  * Research Assistance ship, 2020
+  * Albatross Scholarship, 2018
+  * Academic Excellence Scholarship, 2014~2016
+* Corporate Fellowship
+  * Outstanding Student Fellowship by NAVER Cor. 2015
+  * Summer Overseas Studying Fellowship by Binggrae Cor. 2014
+  
+ 
