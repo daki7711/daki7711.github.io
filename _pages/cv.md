@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Seoul, Sogang University, 2016
 * M.S. in Boulder, University of Colorado at Boulder, 2021(exptected)
+* B.S. in Seoul, Sogang University, 2016
 
 Work experience
 ======
