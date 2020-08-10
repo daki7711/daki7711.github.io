@@ -51,11 +51,11 @@ Teaching
   
 Fellowship/Scholarship
 ======
-* Academic Scholarship
+* Academic Scholarships
   * Research Assistance ship, 2020
   * Albatross Scholarship, 2018
   * Academic Excellence Scholarship, 2014~2016
-* Corporate Fellowship
+* Fellowships
   * Outstanding Student Fellowship by NAVER Cor. 2015
   * Summer Overseas Studying Fellowship by Binggrae Cor. 2014
   
