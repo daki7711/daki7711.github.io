@@ -12,7 +12,11 @@ redirect_from:
 Education
 ======
 * M.S. in Boulder, University of Colorado at Boulder, 2021(exptected)
+  * Advisor: Michael C. Mozer
 * B.S. in Seoul, Sogang University, 2016
+  * Graduated with ‘Magna Cum Laude’
+* Visit Student in California, U.C. Berkeley, 2014
+  * Summer Session
 
 Work experience
 ======
@@ -25,15 +29,7 @@ Work experience
   * ROK-US Combined Forces Command
   * Served in the Military as KATUSA (Korean Augmented to the US Army)
   * Worked in Intelligence Security and Operations staff
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -41,7 +37,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
  
 Teaching
 ======
@@ -58,5 +58,18 @@ Fellowship/Scholarship
 * Corporate Fellowship
   * Outstanding Student Fellowship by NAVER Cor. 2015
   * Summer Overseas Studying Fellowship by Binggrae Cor. 2014
+  
+Skills
+======
+* Language
+  * Korean, English
+* Prgrogramming
+  * Python, C, C++, Java, Python, Matlab, HTML, CSS, PHP
+
+Affiliation
+======
+* Member, “Alpha Sigma Nu”
+* Member, “ACES”,
+  * Violinist of the orchestra club in Sogang University
   
  
