@@ -7,6 +7,6 @@ venue: "Second Workshop on Intelligent Textbooks at The 21th International Confe
 date: 2020-07-06
 ---
 
-Presentation in the Second Workshop on Intelligent Textbooks(AIED 2020) about  
+Presentation in the Second Workshop on Intelligent Textbooks(AIED 2020) about Smart Digital Textbooks To Enhance Learning
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+[slides](http://google.com)
