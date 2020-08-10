@@ -1,7 +1,7 @@
 ---
 title: "Inferring Student Comprehension from Highlighting Patterns in Digital Textbooks: An Exploration in an Authentic Learning Platform"
-collection: talks
-type: "Talk"
+collection: Presentation
+type: "Presentation"
 permalink: /talks/workshoptalk1
 venue: "Second Workshop on Intelligent Textbooks at The 21th International Conference on Artificial Intelligence in Education (AIED’2020)"
 date: 2020-07-06
