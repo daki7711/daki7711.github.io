@@ -7,6 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+I am currently pursuing a Computer Science Masters degree at the University of Colorado, Boulder. I am currently working with my advisor Michael C. Mozer as a Research Assitance. The research project involves making a smart digital textbook to enhance learning. In order to do so we adopt a big-data approach that involves collecting textbook usages(such as highlights, annotation, eye tracking...) from a population of learners to draw inferences about individual learners. My role was to determine how to explit these data and find the best representation to model cognitive state, infer students' depth of understanding of facts and concepts, predict test performance, and perform interventions that improve learning.
+
+
+* Item 1
+* Item 2
+
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 --->
