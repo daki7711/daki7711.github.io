@@ -9,12 +9,15 @@ redirect_from:
 ---
 
 ## My Life Goal
+ With the development of Artificial Intelligence (AI), the meaning and essence of life is changing as the new relationship between human and machine is entering the mdern era. My goal is to live a life with joy and fulfillment of building a world where humans and mahcine work together by interacting in decision-making process.
 
+## My Academic Goal and Research
 
-## My Academic Goal and Research Experience
+ Among the various areas of Artificial Intelligence, my interest resides in finding the optimal structure from massive data for machines to efficiently extract information and make decisions based on it. From this, I want to contribute in constructing efficient programs in Machine Learning (ML) and further my research to make AI have mutual relations with humans.
 
-I am currently pursuing a Computer Science Masters degree at the University of Colorado, Boulder. I am currently working with my advisor Michael C. Mozer as a Research Assitance. The research project involves making a smart digital textbook to enhance learning. In order to do so we adopt a big-data approach that involves collecting textbook usages(such as highlights, annotation, eye tracking...) from a population of learners to draw inferences about individual learners. My role was to determine how to explit these data and find the best representation to model cognitive state, infer students' depth of understanding of facts and concepts, predict test performance, and perform interventions that improve learning.
+ I am currently working with my advisor [Michael C. Mozer](https://www.cs.colorado.edu/~mozer/index.php) as a Research Assitance for about an year. During this period we have published one [Workshop paper](https://www.cs.colorado.edu/~mozer/Research/Selected%20Publications/reprints/Kimetal2020.pdf) and continuing to produce more results. The task of the research project is making a smart digital textbook that would enhance student learning. In order to do so we cooperated with [Openstax](https://openstax.org/) to obtain big-data that involved collecting student textbook usages(such as highlights, annotation, time usage...). From these data we attempt to draw inference about individual students' depth of understanding of facts and concepts. Given that the above succeed we can model student's cognitive state, predict their test performance, and perform interventions that improve learning.
 
+## Two Questions
 
 * "What decision-making process does a machine need to have a mutual understanding with human?"
 * "What are the mathematical theories that make machines perceive information efficiently?"
