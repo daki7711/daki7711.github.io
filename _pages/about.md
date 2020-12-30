@@ -12,7 +12,7 @@ redirect_from:
 
 ## My Academic Goal and Research
 
- My research goal is to understand human cognition by analyzing their behavior using Machine Learning models. More specific statement can be found in my [Statement of Purpose].
+ My research goal is to understand human cognition by analyzing their behavior using Machine Learning models. More specific statement can be found in my [Statement of Purpose](https://github.com/daki7711/daki7711.github.io/blob/master/files/Statement_of_Purpose.pdf).
 
  I am currently working with my advisor [Michael C. Mozer](https://www.cs.colorado.edu/~mozer/index.php) as a Research Assitance for about an year. During this period we have published one [Workshop paper](https://www.cs.colorado.edu/~mozer/Research/Selected%20Publications/reprints/Kimetal2020.pdf) and continuing to produce more results. The overall research project focus on developing intelligent textbooks which infer student understanding based on students' interactions with the textbooks. Given a model of the student's knowledge state, we then hope to customize material for further study and review.
 
