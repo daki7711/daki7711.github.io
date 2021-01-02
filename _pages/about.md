@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Life Goal
- I vision a future where Artificial Intelligence (AI) collaborates with people by augmenting human capabilities, educating and training people in various tasks and activities. To achieve such a goal, I believe AI must have a solid understanding of human cognitive state and it's transitions, in other words, AI must understand what humans are thinking.
+ I vision a future where Artificial Intelligence (AI) collaborates with people by augmenting human capabilities, educating and training people in various tasks and activities. To achieve such goal, I believe AI must have a solid understanding of human cognition, intention, and emotion.
 
 ## My Academic Goal and Research
 
