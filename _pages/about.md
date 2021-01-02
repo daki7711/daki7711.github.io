@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Personal Motivation/ Life Goal
- My motto is "Living, Loving, and Learning," as the author of the book Leo F. Buscaglia, Ph.D. mentioned. I always pursue learning new things not only in academia but in my everyday life. My goal is to contribute to making a loving society of understanding and empathy. [Personal History and Diversity Statement](https://daki7711.github.io/files/Personal History and Diversity Statement.pdf). 
+ My motto is "Living, Loving, and Learning," as the author of the book Leo F. Buscaglia, Ph.D. mentioned. I always pursue learning new things not only in academia but in my everyday life. My goal is to contribute to making a loving society of understanding and empathy. [Personal History and Diversity Statement](https://daki7711.github.io/files/Personal%20History%20and%20Diversity%20Statement.pdf). 
  
  While mutual relationship between people has always been and continue to be essential, I vision a future where Artificial Intelligence (AI) collaborates with people by augmenting human capabilities, educating and training people in various tasks and activities. AI can improve the quality of individual's performance, resulting in better education, healthcare, and overall life decision making. To successfully integrate AI in to our society it is crucial for AI to understand human, specially their mind. I believe AI must have a solid understanding of human cognition, intention, and emotion, hence why I am pursuing academic study in Artificial Intelligence.
 
