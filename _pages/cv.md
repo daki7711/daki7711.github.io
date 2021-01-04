@@ -15,8 +15,7 @@ Education
   * Advisor: Michael C. Mozer
 * B.S. in Seoul, Sogang University, 2016
   * Graduated with ‘Magna Cum Laude’
-* Visit Student in California, U.C. Berkeley, 2014
-  * Summer Session
+  * Summer Session in California, U.C. Berkeley, 2014
 
 Work experience
 ======
