@@ -7,6 +7,7 @@ paperurl: 'http://daki7711.github.io/files/2020_AIED_Conference_Paper.pdf'
 date: 2020-07-06
 venue: 'Second Workshop on Intelligent Textbooks, Springer.'
 citation: 'Kim, David Y.J., A. Winchell, A. Waters, Phillip J. Grimaldi, Richard Baraniuk and M. Mozer. “Inferring Student Comprehension from Highlighting Patterns in Digital Textbooks: An Exploration in an Authentic Learning Platform.” iTextbooks@AIED (2020).'
+
 ---
 
 
