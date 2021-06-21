@@ -63,7 +63,7 @@ Skills
 ======
 * Language
   * Korean, English
-* Prgrogramming
+* Programming
   * Python, C, C++, Java, Python, Matlab, HTML, CSS, PHP
 
 Affiliation
