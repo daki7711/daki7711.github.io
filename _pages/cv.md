@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ["CV"](files/Curriculum_Vitae_David_.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
