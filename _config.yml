@@ -86,8 +86,8 @@ author:
   location         : "Boulder, Colorado"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "DavidYJK@colorado.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=CHVlmKEAAAAJ&hl=en"
+  email            : "davidyjk@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@daki7711"
   vine             :
   weibo            :
   xing             :
