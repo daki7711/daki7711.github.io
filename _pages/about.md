@@ -16,7 +16,7 @@ My research goal is to create a solid framework that uses Machine Learning (ML) 
 
 I am attempting to solve the above problems with ML/DL models. More specific statement can be found in my [Statement of Purpose](https://daki7711.github.io/files/Statement_of_Purpose.pdf).
 
- I am currently working with my advisor [Michael C. Mozer](https://www.cs.colorado.edu/~mozer/index.php) as a Research Assitance for about an year. During this period we have published two Workshop papers and continuing to produce another journal paper. The overall research project focus on developing intelligent textbooks which infer student understanding based on students' interactions with the textbooks. Given a model of the student's knowledge state, we then hope to customize material for further study and review.
+ During my Masters Degree I have been working with my advisor [Michael C. Mozer](https://www.cs.colorado.edu/~mozer/index.php) as a Research Assitance for a couple of years. During this period we have published two Workshop papers and continuing to produce another journal paper. The overall research project focus on developing intelligent textbooks which infer student understanding based on students' interactions with the textbooks. Given a model of the student's knowledge state, we then hope to customize material for further study and review.
  
  
 ## Personal Motivation/ Life Goal
