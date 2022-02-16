@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 ## My Academic Goal and Research
-My research goal is to create a solid framework that uses Machine Learning (ML) and Deep Learning (DL) to infer explanatory variables of human behavior from real-world data, then further apply them to support or refute hypotheses regarding the human mind. There are various and thorough studies on this topic that have yet to be conducted. Two critical problems come to mind.
+Generally, my interest lies on educational technology. I am interested in improving the next generation of education using state-of-the-art technologies mostly Artificial Intelligence. Specifically, I have two lines of research that I pursue.
+
+One line of research is building new tools to democratizing computing — making information technology a tool for everyone, from children in school to leaders in government. Currently I am working with [App Inventor](https://appinventor.mit.edu/) at [MIT Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/) with the supervision of [Prof. Hal Abelson](https://www.csail.mit.edu/person/hal-abelson). App Inventor stems from the idea that anyone should be able to take powerful computational tools and create meaningful, original mobile applications for smartphones and tablets that have impact on the world and in their daily lives.
+
+Another research goal is to create a solid framework that uses Machine Learning (ML) and Deep Learning (DL) to infer explanatory variables of human behavior from real-world data, then further apply them to support or refute hypotheses regarding the human mind. There are various and thorough studies on this topic that have yet to be conducted. Two critical problems come to mind.
 
 * First, it is vague and uncertain about how to measure and quantify the mechanisms of human behavior. 
 * Second, previous models are not powerful enough to fully capture thevarious factors that determine human behavior. 
