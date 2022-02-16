@@ -12,15 +12,20 @@ redirect_from:
 Education
 ======
 * M.S. in Boulder, University of Colorado at Boulder, 2021(exptected)
-  * Advisor: Michael C. Mozer (4.0/4.0)
+  * Advisor: Michael C. Mozer
   * Thesis : Modeling Student Comprehension Using Textbook Annotations: An Exploration of a Large Scale, Naturalistic Corpus
 * B.S. in Seoul, Sogang University, 2016
-  * Graduated with ‘Magna Cum Laude’ (3.67,4.3)
+  * Graduated with ‘Magna Cum Laude’
   * Summer Session in California, U.C. Berkeley, 2014
 
 Work experience
 ======
-* 2019~current: Research Assistant
+* 2021~current: Software Developer
+  * MIT Computer Science & Artificial Intelligence Laboratory
+  * In collaboration with Dr. Harold Abelson, Dr. Evan Patten
+  * App Inventor: an intuitive, visual programming environment that allows everyone – even children – to build fully functional apps for Android phones, iPhones, and Android/iOS tablets. The MIT App Inventor project seeks to democratize software development by empowering all people, especially young people, to move from technology consumption to technology creation.
+
+* 2019~2021: Research Assistant
   * University of Colorado at Boulder
   * Topic : Smart digital textbooks to enhance learning
   * Supervisor: Professor Michael C. Mozer
@@ -62,7 +67,7 @@ Fellowship/Scholarship
 Skills
 ======
 * Language
-  * Korean, English
+  * English, Korean
 * Programming
   * Python, C, C++, Java, Python, Matlab, HTML, CSS, PHP
 
