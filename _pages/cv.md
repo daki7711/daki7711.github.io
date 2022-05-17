@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S. in Boulder, University of Colorado at Boulder, 2021(exptected)
-  * Advisor: Michael C. Mozer
-  * Thesis : Modeling Student Comprehension Using Textbook Annotations: An Exploration of a Large Scale, Naturalistic Corpus
-* B.S. in Seoul, Sogang University, 2016
-  * Graduated with ‘Magna Cum Laude’
-  * Summer Session in California, U.C. Berkeley, 2014
-
 Work experience
 ======
 * 2021~current: Software Developer
@@ -34,6 +25,15 @@ Work experience
   * ROK-US Combined Forces Command
   * Served in the Military as KATUSA (Korean Augmented to the US Army)
   * Worked in Intelligence Security and Operations staff
+
+Education
+======
+* M.S. in Boulder, University of Colorado at Boulder, 2021
+  * Advisor: Michael C. Mozer
+  * Thesis : Modeling Student Comprehension Using Textbook Annotations: An Exploration of a Large Scale, Naturalistic Corpus
+* B.S. in Seoul, Sogang University, 2016
+  * Graduated with ‘Magna Cum Laude’
+  * Summer Session in California, U.C. Berkeley, 2014
 
 
 Publications
