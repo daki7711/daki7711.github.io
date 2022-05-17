@@ -1,5 +1,5 @@
 ---
-title: 'Kim, D. Y. J et al. (2020). Inferring student comprehension from highlighting patterns in digital textbooks: 
+title: Inferring student comprehension from highlighting patterns in digital textbooks: 
 An exploration in an authentic learning platform.'
 collection: workshop publications
 permalink: /publications/MLapplication1
