@@ -1,6 +1,6 @@
 ---
 title: 'Inferring student comprehension from highlighting patterns in digital textbooks: An exploration in an authentic learning platform.'
-collection: workshop publications
+collection: publications
 permalink: /publications/kim2020inferring
 paperurl: 'http://daki7711.github.io/files/2020_AIED_Conference_Paper.pdf'
 date: 2020-07-06
