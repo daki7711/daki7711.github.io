@@ -1,7 +1,7 @@
 ---
 title: Using Semantics of Textbook Highlights to Predict Student Comprehension and Knowledge Retention
 collection: workshop publications
-permalink: /publications/MLapplication2
+permalink: /publications/kim2021using
 paperurl: 'http://daki7711.github.io/files/2021_AIED_Conference_Paper.pdf'
 date: 2021-06-15
 venue: 'Third Workshop on Intelligent Textbooks, Springer.'
