@@ -1,5 +1,5 @@
 ---
-title: 'Using Semantics of Textbook Highlights to Predict Student Comprehension and Knowledge Retention'
+title: Using Semantics of Textbook Highlights to Predict Student Comprehension and Knowledge Retention
 collection: workshop publications
 permalink: /publications/MLapplication2
 paperurl: 'http://daki7711.github.io/files/2021_AIED_Conference_Paper.pdf'
