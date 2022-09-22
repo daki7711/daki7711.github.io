@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "David Young-Jae Kim"
-  avatar           : "my_image.JPG"
+  avatar           : "my_image.jpg"
   bio              : "Software Developer@MIT appinventor"
   location         : "Cambridge, MA"
   employer         :
