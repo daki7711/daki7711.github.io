@@ -1,7 +1,7 @@
 ---
 title: 'SPEAK YOUR MIND: INTRODUCING APTLY, THE SOFTWARE PLATFORM THAT TURNS IDEAS INTO WORKING APPS'
 collection: publications
-permalink: /publications/kim2021using
+permalink: /publications/kim2022speak
 paperurl: 'http://daki7711.github.io/files/ICERIpaper2022.pdf'
 date: 2022-09-22
 venue: '15th annual International Conference of Education, Research and Innovation'
