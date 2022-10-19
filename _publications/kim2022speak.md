@@ -1,5 +1,5 @@
 ---
-title: 'SPEAK YOUR MIND: INTRODUCING APTLY, THE SOFTWARE PLATFORM THAT TURNS IDEAS INTO WORKING APPS'
+title: 'Speak your mind : Introducing APTLY, the software platform that turns ideas into working apps'
 collection: publications
 permalink: /publications/kim2022speak
 paperurl: 'http://daki7711.github.io/files/ICERIpaper2022.pdf'
