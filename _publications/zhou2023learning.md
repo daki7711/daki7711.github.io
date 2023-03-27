@@ -1,0 +1,20 @@
+---
+title: 'Learn and using Image Classifiers by Creating Real Mobile Applications'
+collection: publications
+permalink: /publications/zhou2023learning
+paperurl: 'http://daki7711.github.io/files/zhou2023learning.pdf'
+date: 2023-03-27
+venue: '17th International Technology, Education and Development Conference'
+---
+
+Abstract : MIT App Inventor is an open-source web platform that uses an intuitive block-based programming environment, allowing anyone to create original mobile applications for Android phones, iPhones, and tablets. We seek to empower people of many backgrounds and degrees of programming ability to participate in app creation and to move from technology consumption to technology creation.
+
+Recently, machine learning has emerged as a core technology with potential applications in our daily lives. For example, machine learning could be used to improve the accuracy of weather forecasts, automatically translate documents, or generate new recipes based on a set of ingredients. As a result, computer science educators are starting to look for ways to deploy machine learning models in the classroom and design curricula that scaffold students in applying these models in design-engineering assignments that solve real-world problems in their daily lives or the community.
+
+Our study focused on teaching image classification, a method of categorizing and labeling objects within an image. To do so, we created an intuitive learning platform using MIT App Inventor and a simplified image classification tool, Personal Image Classifier (PIC). PIC is a web interface that allows students to train and test an image classification model based on pictures they snap with their webcams. Once students have created the model, they can deploy it in a mobile application to classify everyday objects. Our goal is to make learning about and using image classification models easier and more enjoyable for students.
+
+Three computer science students at The Hong Kong Polytechnic University (PolyU) participated in using our learning platform. All three already had decent experience using MIT App Inventor and spent part of one day learning how to use PIC by going through the tutorials “Introduction to Machine learning: Image Classification” and “Personal Image Classifier: PICaboo.” The students then spent the rest of the day designing their own PIC projects for mobile use. The learning goal was to put their conceptual understanding into practice by making a simple PIC app that could solve a real-world problem in their daily lives or community.
+
+Our research shows that students learned concepts around image classification and implemented them in practical software prototypes using the learning platform. In a college classroom intervention of three students (all girls), students went through the tutorial and designed divergent working prototypes incorporating machine learning. For example, one student created an app that classifies dinosaur images by species, and that could potentially be used in the Hong Kong Science Museum. In post-intervention surveys, students noted that the work enhanced their interest in Artificial Intelligence, making them want to delve deeper into the details and mechanics of machine learning.
+
+[Download paper here](http://daki7711.github.io/files/zhou2023learning.pdf)
