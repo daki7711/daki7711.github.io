@@ -3,7 +3,7 @@ title: 'Assessing Social Media Users’ Affective Engagement with Narratives of 
 collection: publications
 permalink: /publications/kessler2023assessing
 paperurl: 'http://daki7711.github.io/files/kessler2023assessing.pdf'
-date: 2023-06-03
+date: 2023-06-02
 venue: 'Conference of the Association for the Advancement of Affective Computing'
 ---
 
