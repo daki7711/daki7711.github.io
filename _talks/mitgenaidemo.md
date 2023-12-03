@@ -1,9 +1,9 @@
 ---
 title: "The Power of GenAI In Your Hand: Creating gen AI mobile applications with MIT App Inventor"
 collection: Presentation
-type: "Demo"
+type: "Presentation"
 permalink: /talks/mitgenaidemo
-venue: MIT Generative AI: Education Symposium
+venue: MIT Generative AI Education Symposium
 date: 2023-11-29
 ---
 
