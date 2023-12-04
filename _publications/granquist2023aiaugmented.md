@@ -3,7 +3,7 @@ title: 'AI-Augmented Feature to Edit and Design Mobile Applications'
 collection: publications
 permalink: /publications/granquist2023aiaugmented
 paperurl: 'http://daki7711.github.io/files/granquist2023aiaugmented.pdf'
-date: 2023-06-23
+date: 2023-09-26
 venue: 'MobileHCI'
 ---
 
