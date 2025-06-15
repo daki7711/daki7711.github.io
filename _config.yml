@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Young-Jae Kim"
+  name             : "David Y.J. Kim"
   avatar           : "presentation2.jpeg"
   bio              : "Software Developer@MIT appinventor"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=CHVlmKEAAAAJ&hl=en"
+  googlescholar    : https://scholar.google.com/citations?user=MO37wNUAAAAJ&hl=en
   email            : "daki7711@icloud.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
