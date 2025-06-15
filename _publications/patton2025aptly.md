@@ -1,8 +1,8 @@
 ---
-title:
+title: 'Aptly: Making Mobile Apps from Natural Language'
 collection: publications
 permalink: /publications/patton2025aptly
-paperurl: https://doi.org/10.1145/3706599.3720081
+paperurl: 'https://doi.org/10.1145/3706599.3720081'
 date: 2025-04-25
 venue: CHI: Conference on Human Factors in Computing Systems
 ---
